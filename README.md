@@ -1,8 +1,6 @@
-# _{A playful coding language survey}_
+# _A playful coding language survey_
 
-#### By _**{Elena Rosa}**_
-
-#### _{ A playful coding language survey 
+#### By _**Elena Rosa**_
 
 ## Technologies Used
 
@@ -17,7 +15,7 @@ This is a playful coding language survey that asks five arbitrary questions. Bas
 
 ## Setup/Installation requirements
 
-* Clone repo from Github to your desktop with this command. $ git clone *https://mishymushy.github.io/Survey_2/
+* Clone repo from Github to your desktop with this command. $ git clone https://mishymushy.github.io/Survey_2/
 
 * Open index.html in a browser. 
 
