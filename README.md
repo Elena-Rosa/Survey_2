@@ -6,7 +6,7 @@
 
 * _HTML_
 * _CSS_
-* _javaScript_
+* _JavaScript_
 
 
 ## Description

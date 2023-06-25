@@ -1,6 +1,7 @@
+
 window.onload = function () {
-    const surveyForm = document.getElementById("user info");
-    surveyForm.addEventListener("submit", submitForm);
+    const surveyForm = document.getElementById('user info');
+    surveyForm.addEventListener('submit', submitForm);
 }
 function submitForm() {
     event.preventDefault();
@@ -22,6 +23,7 @@ function submitForm() {
     else if (answer1.value == "apples" && answer2.value == "coffee" && answer3.value == "no" && answer4.value == "no" && answer5.value == "frontend") {
         language.innerHTML = "Maybe Python is a good fit!";
     }
+
     else {
         language.innerHTML = "Maybe try piano lessons!";
     }
