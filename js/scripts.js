@@ -1,6 +1,6 @@
 
 window.onload = function () {
-    const surveyForm = document.getElementById('user info');
+    const surveyForm = document.getElementById('userInfo');
     surveyForm.addEventListener('submit', submitForm);
 }
 function submitForm() {
