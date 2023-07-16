@@ -15,7 +15,7 @@ This is a playful coding language survey that asks five arbitrary questions. Bas
 
 ## Setup/Installation requirements
 
-* Clone repo from Github to your desktop with this command. $ git clone https://mishymushy.github.io/Survey_2/
+* Clone repo from Github to your desktop with this command. $ git clone https://Elena-Rosa.github.io/Survey_2/
 
 * Open index.html in a browser. 
 
